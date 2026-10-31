@@ -1,0 +1,96 @@
+/*==================================
+Font Variable
+==================================*/
+
+:root {
+    --uc-primary-font: "Albert Sans", sans-serif;
+}
+
+:root {
+    --uc-secondary-font: "Albert Sans", sans-serif;
+}
+
+:root {
+    --uc-text-font: "Albert Sans", sans-serif;
+}
+
+:root {
+    --uc-accent-font: "Albert Sans", sans-serif;
+}
+
+:root {
+    --uc-general-font: "Albert Sans", sans-serif;
+}
+
+
+
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+
+:root {
+    --uc-primary-color: #ffee08;
+    /* theme primary color */
+}
+
+:root {
+    --uc-secondary-color: #077165;
+    /* theme secondary color */
+}
+
+:root {
+    --uc-white-color: #fff;
+    /* theme white font color */
+}
+
+:root {
+    --uc-light-color: #f5f3f3;
+    /* theme light gray color */
+}
+
+:root {
+    --uc-gray-color: #c3c9d1;
+    /* theme gray color */
+}
+
+:root {
+    --uc-dark-color: #101010;
+    /* theme dark color ok*/
+}
+
+:root {
+    --uc-accent-color: #931f1d;
+    /* theme accent color ok*/
+}
+
+:root {
+    --uc-default-color: #4c4c4c;
+    /* theme gray color */
+}
+
+:root {
+    --uc-border-color: #e5dfdf;
+    /* default border color */
+}
+
+:root {
+    --uc-text-gray-color: #8b8b8b;
+    /* theme gray color */
+}
+
+:root {
+    --uc-text-light-color: #a9a9a9;
+    /* theme gray color */
+}
+
+:root {
+    --uc-primary-color-rgba: 147, 31, 29;
+}
+
+:root {
+    --uc-secondary-color-rgba: 18, 53, 91;
+}
+
+:root {
+    --uc-dark-color-rgba: 16, 16, 16;
+}
